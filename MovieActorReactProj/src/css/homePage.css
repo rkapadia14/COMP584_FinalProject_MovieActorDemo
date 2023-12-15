@@ -1,0 +1,37 @@
+.home-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .project-description p {
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
+  .key-features h2,
+  .get-started h2 {
+    margin-top: 20px;
+  }
+  .main-title{
+    text-align: center;
+  }
+  .feature {
+    margin-bottom: 20px;
+  }
+  
+  .feature h3 {
+    color: #333;
+  }
+  
+  .get-started ol {
+    list-style-type: decimal;
+    padding-left: 20px;
+  }
+  
+  .get-started ol li {
+    margin-bottom: 10px;
+  }
+  
+  /* Add more styling as needed */
+  

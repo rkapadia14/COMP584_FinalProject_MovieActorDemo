@@ -1,0 +1,53 @@
+/* actorList.css */
+.actor-list {
+    margin-top: 20px;
+    text-align: center;
+  }
+  
+  .actor-list h2 {
+    font-size: 1.5em;
+    color: #333;
+  }
+  
+  .actor-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  .actor-table th, .actor-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  .actor-table th {
+    background-color: #f2f2f2;
+  }
+  
+  .actor-table a {
+    text-decoration: none;
+    color: #007bff;
+    transition: color 0.3s ease; /* Add a smooth transition effect on color change */
+  }
+  
+  .actor-table a:hover {
+    text-decoration: underline;
+    color: #0056b3;
+  }
+  
+  .actor-table td div {
+    margin-bottom: 5px; /* Adjust spacing between movie titles */
+  }
+  
+  .actor-table td a {
+    display: block;
+    padding: 4px;
+    border-radius: 4px;
+    transition: background-color 0.3s ease; /* Add a smooth transition effect on background color change */
+  }
+  
+  .actor-table td a:hover {
+    background-color: #f0f0f0;
+    color: #333;
+  }
+  
