@@ -1,0 +1,14 @@
+/Users/siddharth/Projects/MovieActorDemo/MovieActorModels/bin/Release/net7.0/MovieActorModels.deps.json
+/Users/siddharth/Projects/MovieActorDemo/MovieActorModels/bin/Release/net7.0/MovieActorModels.runtimeconfig.json
+/Users/siddharth/Projects/MovieActorDemo/MovieActorModels/bin/Release/net7.0/MovieActorModels.dll
+/Users/siddharth/Projects/MovieActorDemo/MovieActorModels/bin/Release/net7.0/MovieActorModels.pdb
+/Users/siddharth/Projects/MovieActorDemo/MovieActorModels/obj/Release/net7.0/MovieActorModels.csproj.AssemblyReference.cache
+/Users/siddharth/Projects/MovieActorDemo/MovieActorModels/obj/Release/net7.0/MovieActorModels.GeneratedMSBuildEditorConfig.editorconfig
+/Users/siddharth/Projects/MovieActorDemo/MovieActorModels/obj/Release/net7.0/MovieActorModels.AssemblyInfoInputs.cache
+/Users/siddharth/Projects/MovieActorDemo/MovieActorModels/obj/Release/net7.0/MovieActorModels.AssemblyInfo.cs
+/Users/siddharth/Projects/MovieActorDemo/MovieActorModels/obj/Release/net7.0/MovieActorModels.csproj.CoreCompileInputs.cache
+/Users/siddharth/Projects/MovieActorDemo/MovieActorModels/obj/Release/net7.0/MovieActorModels.dll
+/Users/siddharth/Projects/MovieActorDemo/MovieActorModels/obj/Release/net7.0/refint/MovieActorModels.dll
+/Users/siddharth/Projects/MovieActorDemo/MovieActorModels/obj/Release/net7.0/MovieActorModels.pdb
+/Users/siddharth/Projects/MovieActorDemo/MovieActorModels/obj/Release/net7.0/MovieActorModels.genruntimeconfig.cache
+/Users/siddharth/Projects/MovieActorDemo/MovieActorModels/obj/Release/net7.0/ref/MovieActorModels.dll
