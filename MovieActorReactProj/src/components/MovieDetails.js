@@ -38,7 +38,7 @@ const MovieDetails = () => {
 
         }
         // Fetch movie details from the OMDb API
-        const omdbResponse = await fetch(`http://www.omdbapi.com/?t=${encodeURIComponent(movieName)}&apikey=db2364cc`);
+        const omdbResponse = await fetch(`http://www.omdbapi.com/?t=${encodeURIComponent(movieName)}&apikey=YourAPIKey`);
         const omdbData = await omdbResponse.json();
 
         console.log('OMDb Data:', omdbData);
